@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1772636990924
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773628598782
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774438999571
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772636996141
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772636997772
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1772636999554
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772637001453
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1772637003119
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1772637005244
+    },
+    "tencent-docs": {
+      "version": "1.0.3",
+      "installedAt": 1772637007657
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1774438989684
+    },
+    "tavily": {
+      "version": "1.0.0",
+      "installedAt": 1774438993342
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1774439002868
+    },
+    "file-manager": {
+      "version": "1.0.0",
+      "installedAt": 1774439644368
+    },
+    "openclaw-github-assistant": {
+      "version": "2.0.1",
+      "installedAt": 1774439648552
+    },
+    "notion-api-automation": {
+      "version": "1.0.0",
+      "installedAt": 1774439651985
+    },
+    "obsidian-cli": {
+      "version": "2.0.0",
+      "installedAt": 1774439657608
+    },
+    "self-improving-proactive-agent": {
+      "version": "1.0.0",
+      "installedAt": 1774441888269
+    },
+    "daily-digest": {
+      "version": "1.0.0",
+      "installedAt": 1774441892121
+    },
+    "blogwatcher": {
+      "version": "1.0.0",
+      "installedAt": 1774441894965
+    }
+  }
+}

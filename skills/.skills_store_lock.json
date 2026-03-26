@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "skill-vetter": {
+      "name": "Skill Vetter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-vetter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "tavily": {
+      "name": "Tavily AI Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-browser": {
+      "name": "Agent Browser",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-browser",
+      "source": "skillhub",
+      "version": "0.2.0"
+    },
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    },
+    "file-manager": {
+      "name": "File Manager",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=file-manager",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "openclaw-github-assistant": {
+      "name": "OpenClaw GitHub Assistant",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-github-assistant",
+      "source": "skillhub",
+      "version": "2.0.1"
+    },
+    "notion-api-automation": {
+      "name": "Notion API",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=notion-api-automation",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "obsidian-cli": {
+      "name": "Obsidian CLI",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=obsidian-cli",
+      "source": "skillhub",
+      "version": "2.0.0"
+    },
+    "self-improving-proactive-agent": {
+      "name": "Self-Improving Proactive Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-proactive-agent",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "daily-digest": {
+      "name": "Daily Digest",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=daily-digest",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "blogwatcher": {
+      "name": "Blogwatcher",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=blogwatcher",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
